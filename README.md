@@ -1,2 +1,2 @@
-REMOTE
+LOCAL
 # mergeconflit2
